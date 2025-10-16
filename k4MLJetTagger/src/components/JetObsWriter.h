@@ -160,7 +160,6 @@ private:
   mutable float jet_PV_x;
   mutable float jet_PV_y;
   mutable float jet_PV_z;
-  mutable int jet_PV_id;
 
   mutable std::int32_t evNum;
 };
