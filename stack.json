@@ -1,13 +1,12 @@
 {
   "version": 5,
-  "prev": "ee631821eed50844d39a6b3ff969db2c39353d71",
-  "head": "0acb0872b0e1ba6c79d6246311a3b32b6147dd9a",
+  "prev": "ef9d42dffcb5cb6fb9ea0f81c1631b5b69676c6a",
+  "head": "0e4a97bdef32c006b327b7a1f729f4b6e76e6ef0",
   "applied": [
     "depr",
     "clangwarn",
     "cmakewarn",
-    "danglewarn",
-    "refresh-temp"
+    "danglewarn"
   ],
   "unapplied": [],
   "hidden": [],
@@ -19,13 +18,10 @@
       "oid": "d7478dc921b8dc5f92fee014946b78f519295549"
     },
     "danglewarn": {
-      "oid": "87a45913a45766273d974d59933f87e9dc9d0814"
+      "oid": "0e4a97bdef32c006b327b7a1f729f4b6e76e6ef0"
     },
     "depr": {
       "oid": "58e9e819eedd1eec7a948bb82008b8a3c9b49c4c"
-    },
-    "refresh-temp": {
-      "oid": "0acb0872b0e1ba6c79d6246311a3b32b6147dd9a"
     }
   }
 }
