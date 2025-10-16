@@ -156,7 +156,6 @@ private:
   mutable float m_jetPVx;
   mutable float m_jetPVy;
   mutable float m_jetPVz;
-  mutable int m_jetPVid;
 
   mutable std::int32_t m_evNum;
 };
