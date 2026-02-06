@@ -1,14 +1,14 @@
 {
   "version": 5,
-  "prev": "cfe03cc8bfca02fa3f698cb0bab1292eaed61821",
-  "head": "f8586da782abd317b31f92ce31c75f8ebdddbf66",
-  "applied": [
+  "prev": "28f39cded1d4253a7543db5fc69e977722e72733",
+  "head": "0d838265a6ec4b7d544a3269bf29ddce836845cf",
+  "applied": [],
+  "unapplied": [
     "depr",
     "clangwarn",
     "cmakewarn",
     "cxx26"
   ],
-  "unapplied": [],
   "hidden": [],
   "patches": {
     "clangwarn": {
